@@ -1,36 +1,35 @@
 # Hi there, I'm Carlos 👋
 
-## 🎓 About Me
+##  About Me
 
 Computer Science student at Tecnológico de Monterrey with a passion for **quantitative research**, **statistical learning**, and **computational methods** applied to financial markets and environmental systems.
 
-- 🔭 Currently working on algorithmic trading systems and predictive modeling
-- 🌱 Exploring quantitative finance, time-series forecasting, and multi-agent simulations
-- 💼 Research Software Developer with experience in optimization and data infrastructure
-- 📊 Interested in financial econometrics and portfolio optimization
-- 🎯 Expected Graduation: June 2027 | GPA: 3.8/4.0
+-  Currently working on algorithmic trading systems and predictive modeling
+-  Exploring quantitative finance, time-series forecasting, and multi-agent simulations
+-  Interested in financial econometrics and portfolio optimization
+-  Expected Graduation: June 2027 | GPA: 3.8/4.0
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📈 [Cryptocurrency Prediction & Trading System](link-to-repo)
+###  [Cryptocurrency Prediction & Trading System]
 Automated trading pipeline using Random Forest regression for crypto price prediction
 - **Tech Stack:** Python, scikit-learn, Bitso API
 - **Features:** Time-series analysis, sentiment integration, rolling-window backtesting
 - **Metrics:** Improved Sharpe ratio through systematic feature engineering
 
-### 🌊 [Bloomly: Global Algal Bloom Detection](link-to-repo)
+###  [Bloomly: Global Algal Bloom Detection](https://github.com/CsVazquezz/-Bloomly-Global-Algal-Bloom-Detection)
 ML-based environmental monitoring system for predicting harmful algal blooms
 - **Tech Stack:** LightGBM, Flask, Three.js, Google Earth Engine, NASA POWER API
 - **Features:** Multi-spectral satellite analysis, 44 ecological indicators, 3D visualization
 - **Performance:** Optimized via temporal cross-validation with AUC/F1 metrics
 
-### 📅 [Automated Academic Scheduling System](link-to-repo)
+###  [Automated Academic Scheduling System](https://github.com/CsVazquezz/-Automated-Academic-Scheduling-System)
 Constraint satisfaction algorithm for optimized course scheduling
 - **Tech Stack:** PostgreSQL, Node.js, React, TypeScript
 - **Impact:** Serving 150+ users with real-time editing capabilities
 - **Optimization:** 40% improvement in query performance through indexing strategies
 
-### 🎮 [Multi-Agent 3D Simulation](link-to-repo)
+###  [Multi-Agent 3D Simulation](https://github.com/CsVazquezz/-Multi-Agent-3D-Simulation)
 Strategic decision-making simulation with autonomous agents
 - **Tech Stack:** Python (Mesa), Unity, C#
 - **Methods:** Monte Carlo sampling, pathfinding heuristics, policy learning
@@ -55,7 +54,7 @@ Strategic decision-making simulation with autonomous agents
 **Databases & Cloud**  
 `PostgreSQL` • `MongoDB` • `MariaDB` • `AWS` • `Heroku`
 
-## 📊 Research Interests
+##  Research Interests
 
 - Quantitative modeling & financial econometrics
 - Time-series forecasting & portfolio optimization
@@ -63,7 +62,7 @@ Strategic decision-making simulation with autonomous agents
 - Computational methods for environmental systems
 - Statistical learning & algorithmic trading
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/c-vzqz)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/CsVazquezz)
