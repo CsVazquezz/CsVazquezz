@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos 👋
+# Hi there, I'm Carlos
 
 ##  About Me
 
@@ -70,4 +70,4 @@ Strategic decision-making simulation with autonomous agents
 
 ---
 
-⚡ *"Building systems that blend statistical rigor with computational efficiency"*
+*"Building systems that blend statistical rigor with computational efficiency"*
