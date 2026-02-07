@@ -4,6 +4,9 @@
 
 Computer Science student at Tecnológico de Monterrey with a passion for **quantitative research**, **statistical learning**, and **computational methods** applied to financial markets and environmental systems.
 
+Personal Portfolio: 
+[![Portfolio](https://img.shields.io/badge/Portfolio-csvazquez.com-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://csvazquez.com)
+
 -  Currently working on algorithmic trading systems and predictive modeling
 -  Exploring quantitative finance, time-series forecasting, and multi-agent simulations
 -  Interested in financial econometrics and portfolio optimization
